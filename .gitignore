@@ -1,0 +1,8 @@
+# Power BI autosave/temp files
+*.pbix.autosave
+~*.pbix
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
