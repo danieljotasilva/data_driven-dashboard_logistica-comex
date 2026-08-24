@@ -83,6 +83,10 @@ A utilização dos filtros permite navegar pelos dados de forma exploratória e 
 
 ![Dashboard de Logística COMEX](assets/dash-logistica-dd.gif)
 
+🔗 **[Acesse o dashboard interativo aqui](https://app.powerbi.com/view?r=eyJrIjoiZTBhNmFkMWEtNzgyYi00OWZjLWI2YjktZmE0Njk2YTgxY2YxIiwidCI6ImI3NTlhNjUzLWE3ZDItNDFiNS05OGNmLTVlN2NhZDIzM2EyMCJ9&embedImagePlaceholder=true)**
+
+> Explore o dashboard com filtros, drill-down e todas as visualizações completas.
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
