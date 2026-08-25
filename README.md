@@ -1,4 +1,4 @@
-# 📊 Data Driven Dashboard — Logística COMEX
+# 📊 Data Driven Dashboard - Logística COMEX
 
 Dashboard desenvolvido em **Power BI** para análise e acompanhamento de indicadores relacionados a operações de **Logística e Comércio Exterior (COMEX)**.
 
